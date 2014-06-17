@@ -6,3 +6,14 @@ padding: 50px;
 .E6 img{
 	margin-right: 40px;
 }
+
+.E7{
+	width: 800px;
+
+}
+
+.E7 p, .E7 ol, .E7 img {
+display: inline-block;
+vertical-align: top;
+margin-right: 30px;
+}
