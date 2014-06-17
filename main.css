@@ -17,3 +17,17 @@ display: inline-block;
 vertical-align: top;
 margin-right: 30px;
 }
+
+.E8 {
+padding-top: 100px;
+padding-bottom: 100px;
+}
+
+.E9 {
+	margin-top: 100px;
+}
+
+.E10 li{
+	display: inline-block;
+	margin-left: -5px;
+}
