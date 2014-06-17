@@ -29,5 +29,10 @@ padding-bottom: 100px;
 
 .E10 li{
 	display: inline-block;
-	margin-left: -5px;
+	
+
+}
+
+.E10 ul{
+padding: 0px;
 }
