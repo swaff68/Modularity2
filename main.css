@@ -152,6 +152,27 @@ border-bottom-right-radius: 5px;
 	text-decoration: none;
 	float: left;
 	margin-left: 15px;
+}
 	
 
+.media-img{
+	float: left;
+	margin-right: 10px;
+
+
 }
+
+.text-content{
+	margin-left: 10px;
+	overflow: hidden;
+
+}
+
+
+.comment{
+	overflow: hidden;
+	margin-bottom: 20px;
+	clear: both;
+}
+
+
