@@ -91,3 +91,36 @@ background-color: rgb(224,109,119);
 	vertical-align: middle;
 	margin-right: 10px;
 	border: 0;
+}
+
+
+.nav1{
+	float: left;
+	padding: 15px 30px 15px 30px;
+	font-size: 16px;
+	color: white;
+	text-decoration: none;
+	background-color: rgb(224,109,119);
+	border: 0;
+
+}
+
+.nav1:hover{
+opacity: 0.5;
+}
+
+.E12{
+	list-style: none;
+}
+
+.E12 li:first-child a{
+border-top-left-radius: 5px;
+border-bottom-left-radius: 5px;
+
+}
+
+.E12 li:last-child a{
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+
+}
