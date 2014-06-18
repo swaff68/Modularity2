@@ -55,7 +55,7 @@ padding: 0px;
 	
 	color: white;
 	text-decoration: none;
-	background-color: pink;
+background-color: rgb(224,109,119);
 	vertical-align: middle;
 	margin-right: 10px;
 
@@ -79,3 +79,15 @@ padding: 0px;
 		padding: 5px 7px 5px 7px;
 		font-size: 16px;
 }
+
+.btn-same1{
+	display: inline-block;
+	border-radius: 5px;
+	padding: 15px 30px 15px 30px;
+	font-size: 16px;
+	color: white;
+	text-decoration: none;
+	background-color: rgb(224,109,119);
+	vertical-align: middle;
+	margin-right: 10px;
+	border: 0;
