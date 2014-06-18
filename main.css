@@ -102,6 +102,7 @@ background-color: rgb(224,109,119);
 	text-decoration: none;
 	background-color: rgb(224,109,119);
 	border: 0;
+	margin-left: 0px;
 
 }
 
@@ -111,6 +112,7 @@ opacity: 0.5;
 
 .E12{
 	list-style: none;
+	padding: 0px;
 }
 
 .E12 li:first-child a{
@@ -122,5 +124,34 @@ border-bottom-left-radius: 5px;
 .E12 li:last-child a{
 border-top-right-radius: 5px;
 border-bottom-right-radius: 5px;
+
+}
+
+.page{
+	font-size: 16px;
+	color: rgb(224,104,119);
+	text-decoration: none;
+	float: left;
+	margin-left: 25px;
+	border-bottom: solid 3px rgb(224,104,119);
+	padding: 0px 5px 5px 5px ;
+
+}
+
+.pagination{
+	list-style: none;
+}
+
+.page-8{
+	opacity: 0.5;
+}
+
+.pageZ{
+	font-size: 16px;
+	color: rgb(224,104,119);
+	text-decoration: none;
+	float: left;
+	margin-left: 15px;
+	
 
 }
