@@ -1,6 +1,9 @@
 .E6{
 width: 800px;
-padding: 50px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 50px;
+
 }
 
 .E6 img{
@@ -35,4 +38,44 @@ padding-bottom: 100px;
 
 .E10 ul{
 padding: 0px;
+}
+
+.E11 {
+	position: relative;
+	vertical-align: middle;
+}
+
+.E11 img{
+	vertical-align: middle;
+}
+
+.btn-same{
+	display: inline-block;
+	border-radius: 5px;
+	
+	color: white;
+	text-decoration: none;
+	background-color: pink;
+	vertical-align: middle;
+	margin-right: 10px;
+
+}
+
+.btn-BN{
+	
+	padding: 30px 60px 25px 60px;
+	font-size: 24px;
+
+
+}
+
+.btn-LM{
+		padding: 15px 30px 15px 30px;
+		font-size: 16px;
+
+}
+
+.btn-OK{
+		padding: 5px 7px 5px 7px;
+		font-size: 16px;
 }
